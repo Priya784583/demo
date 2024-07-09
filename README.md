@@ -4,7 +4,8 @@ git init
 git add file name
 git commit -m "... ..."
 git status
-git  branch
-git checkout -b name (for a new branch)
-git checkout name (to change branch)
-git merge branch-name
+learning to push
+understanding theory
+explore
+git difftool README.md
+tyig
