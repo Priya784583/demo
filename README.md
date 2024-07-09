@@ -6,3 +6,6 @@ git commit -m "... ..."
 git status
 learning to push
 understanding theory
+explore
+git difftool README.md
+tyig
