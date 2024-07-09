@@ -1,14 +1,11 @@
-# LEARNING For the first day
-Here I am learning git 
-git init 
-git add file name
-git commit -m "... ..."
+git init
 git status
-git commita
-
-learning to push
-understanding theory
-explore
-git difftool README.md
-tyig
-learn and explore
+git log
+git add .
+git add file-name (for individual file)
+git commit -m "message"
+git branch
+git branch branch-name
+git checkout branch-name (existing branch)
+git checkout -b branch-name (for new branch)
+git merge branch-name
